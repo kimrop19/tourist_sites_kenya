@@ -3,7 +3,11 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "water"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -14,7 +18,11 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "park"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -25,7 +33,11 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "park"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -36,7 +48,11 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "park"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -47,7 +63,11 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "park"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -74,7 +94,11 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "park"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -85,7 +109,11 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "park"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -96,7 +124,11 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "park"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -107,7 +139,11 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "park"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -118,7 +154,11 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "park"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -129,7 +169,11 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "city"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -140,7 +184,11 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "park2"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -151,7 +199,11 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "park"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -162,7 +214,11 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "water"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -173,7 +229,11 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "park"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -184,7 +244,11 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "water"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -195,7 +259,11 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "water"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -206,7 +274,11 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "park"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -217,7 +289,11 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "town"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -239,7 +315,11 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "park2"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -250,7 +330,11 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "water"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -261,7 +345,11 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "water"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -272,7 +360,11 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "park"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -283,7 +375,11 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "park"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -297,7 +393,7 @@
       "properties": {
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
-        "marker-symbol": ""
+        "marker-symbol": "park"
       },
       "geometry": {
         "type": "Point",
@@ -309,7 +405,11 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "town"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -320,7 +420,11 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "park"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -331,7 +435,11 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "park2"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -375,7 +483,11 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "park2"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -404,7 +516,7 @@
       "properties": {
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
-        "marker-symbol": "park"
+        "marker-symbol": "town"
       },
       "geometry": {
         "type": "Point",
@@ -416,7 +528,11 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "park"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -427,7 +543,11 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "park"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -449,7 +569,11 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "park"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -463,7 +587,7 @@
       "properties": {
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
-        "marker-symbol": "park2"
+        "marker-symbol": "town"
       },
       "geometry": {
         "type": "Point",
@@ -486,7 +610,11 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "park"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -497,7 +625,11 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "town"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -508,7 +640,11 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "town"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -519,7 +655,11 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "town"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -530,7 +670,11 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "town"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -541,7 +685,11 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "town"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -552,7 +700,11 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "town"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -574,7 +726,11 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "dog-park"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -596,7 +752,11 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "town"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -618,7 +778,11 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "park2"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -651,7 +815,11 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "water"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -662,12 +830,46 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "town"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
           38.82568359375,
           3.491489430459778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.31829833984375,
+          -0.38177207732855717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.09307861328124,
+          -1.21115246707424
         ]
       }
     }
